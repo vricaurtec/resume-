@@ -1,0 +1,18 @@
+{
+  "name": "Valentina Ricaurte-Cabas",
+  "website": "https://vricaurtec.github.io/",
+  "linkedin": "https://www.linkedin.com/in/vrc/",
+  "github": "vricaurtec",
+  "email": "valentinaricabas@gmail.com",
+  "resume": "https://vricaurtec.github.io/assets/Valentina.pdf",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django"
+  ]
+}
